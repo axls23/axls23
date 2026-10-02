@@ -24,7 +24,7 @@
 
 ## 🧠 What I'm Building
 
-I'm a **B.Tech AI Engineering student at Jain University, Bengaluru** (2023–2027), obsessed with problems at the intersection of spatial intelligence, agentic AI, and research automation.
+I'm a **AI Engineer and independent  researcher in Bengaluru** , obsessed with problems at the intersection of spatial intelligence, agentic AI, and research automation.
 
 Right now I'm working on:
 - 🌐 **[HyperSplat](https://github.com/axls23/3D_world_genrator)** — A high-velocity 3D Gaussian Splatting engine that reconstructs immersive 3D scenes from raw video using CUDA-accelerated pipelines, ACE-Zero pose estimation, and Depth Anything V2. Built for SIH 2025.
